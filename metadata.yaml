@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '32258'
     url: http://www.gutenberg.org/2009/agents/32258
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26822#La-Pupille
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
